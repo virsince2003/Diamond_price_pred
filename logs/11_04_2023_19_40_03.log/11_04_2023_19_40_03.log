@@ -1,0 +1,18 @@
+[2023-11-04 19:40:04,148] 96 - werkzeug - WARNING -  * Debugger is active!
+[2023-11-04 19:40:04,152] 96 - werkzeug - INFO -  * Debugger PIN: 837-558-405
+[2023-11-04 19:40:24,320] 66 - root - INFO - Custom Dataframe created
+[2023-11-04 19:40:24,320] 14 - root - INFO - Prediction Pipeline started
+[2023-11-04 19:40:25,688] 96 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 19:40:25] "POST / HTTP/1.1" 200 -
+[2023-11-04 19:40:31,168] 66 - root - INFO - Custom Dataframe created
+[2023-11-04 19:40:31,168] 14 - root - INFO - Prediction Pipeline started
+[2023-11-04 19:40:31,203] 96 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 19:40:31] "POST / HTTP/1.1" 200 -
+[2023-11-04 19:40:42,152] 66 - root - INFO - Custom Dataframe created
+[2023-11-04 19:40:42,152] 14 - root - INFO - Prediction Pipeline started
+[2023-11-04 19:40:42,185] 96 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 19:40:42] "POST / HTTP/1.1" 200 -
+[2023-11-04 19:52:06,106] 96 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 19:52:06] "GET / HTTP/1.1" 200 -
+[2023-11-04 19:52:09,633] 66 - root - INFO - Custom Dataframe created
+[2023-11-04 19:52:09,633] 14 - root - INFO - Prediction Pipeline started
+[2023-11-04 19:52:09,648] 96 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 19:52:09] "POST / HTTP/1.1" 200 -
+[2023-11-04 19:52:33,918] 66 - root - INFO - Custom Dataframe created
+[2023-11-04 19:52:33,918] 14 - root - INFO - Prediction Pipeline started
+[2023-11-04 19:52:33,954] 96 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 19:52:33] "POST / HTTP/1.1" 200 -
